@@ -1,0 +1,13 @@
+# user should create their own env.sh
+/env.sh
+
+# results of build scripts
+*.d
+*.o
+*.log
+bendos.kernel
+bendos.iso
+
+# folders that are created during build
+/sysroot/
+/isodir/
