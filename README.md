@@ -1,6 +1,6 @@
 # BendOS
 This is a small OS development project I've been messing around with.
-(the name comes from some dumb ASCII art I printed out with an earlier version)
+(the name comes from some dumb ASCII art I printed out with an earlier version).
 I've been working on this on and off to learn a bit of low-level programming and operating systems knowledge.
 ## Building
 In order to run `make build`, this project requires an i386 ELF cross-compiler as described on the [OSDev Wiki](https://wiki.osdev.org/GCC_Cross-Compiler).
